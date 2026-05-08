@@ -1,2 +1,2 @@
 # Nettside-med-API
-egen nettside met API data prosjekt 2ITA. randomizer som inkluderer foreløpig 2 kategorier, anime (inneholder Pokemon og AOT), og animals (inneholder catfacts og hunde-bilder). nettsiden utnytter til sammen 5 API-er, og er ett av de største prosjektene jeg har gjennomført til nå. prosjekt-mappen min har god struktur, men jeg fikk ikke til å legge til noen mapper, eller noe annet en kun filene her.
+egen nettside met API data prosjekt 2ITA. randomizer som inkluderer foreløpig 2 kategorier, anime (inneholder Pokemon og AOT), og animals (inneholder catfacts og hunde-bilder). nettsiden utnytter til sammen 5 API-er, og er ett av de største prosjektene jeg har gjennomført til nå. prosjekt-mappen min har god struktur, men jeg 
